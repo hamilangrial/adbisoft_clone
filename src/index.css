@@ -1,0 +1,18 @@
+body {
+  box-sizing: border-box;
+  overflow-x:hidden;
+  padding: 0;
+  margin: 0;
+  font-family: Nunito,sans-serif;
+  color: #223554;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+}
